@@ -21,6 +21,7 @@ The PAN card provided to them by their employees or customer or anyone is origin
 2. skimage.metrics we import structural_similarity
 3. imutils
 4. from PIL we import Image
+5. Flask 
 
 ## Dataset
 I only use a single original PAN Card Picture 
