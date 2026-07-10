@@ -26,4 +26,7 @@ The PAN card provided to them by their employees or customer or anyone is origin
 I only use a single original PAN Card Picture 
 
 ## How to Run
+first run the requirements
 pip install -r requirements.txt
+
+Watch the demo of my project on my youtube channel Shayan Tech Lab : https://www.youtube.com/watch?v=Wc0LFClK3js
