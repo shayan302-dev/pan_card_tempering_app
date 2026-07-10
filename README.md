@@ -17,10 +17,10 @@ The PAN card provided to them by their employees or customer or anyone is origin
 10. Compare all the images and check the similarity score to decide tempering
 
 ## Technologies
-cv2 
-skimage.metrics we import structural_similarity
-imutils
-from PIL we import Image
+1. cv2 
+2. skimage.metrics we import structural_similarity
+3. imutils
+4. from PIL we import Image
 
 ## Dataset
 I only use a single original PAN Card Picture 
