@@ -30,3 +30,6 @@ first run the requirements
 pip install -r requirements.txt
 
 Watch the demo of my project and how to run project in your machine see on my youtube channel Shayan Tech Lab : https://www.youtube.com/watch?v=Wc0LFClK3js
+
+## Author 
+Muhammad Shayyan
